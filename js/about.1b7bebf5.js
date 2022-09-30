@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkrandomnumbertable"]=self["webpackChunkrandomnumbertable"]||[]).push([[443],{7381:function(n,a,e){e.r(a),e.d(a,{default:function(){return l}});var r=e(3396);const u={class:"about"},t=(0,r._)("h1",null,"This is an about page",-1),s=[t];function c(n,a){return(0,r.wg)(),(0,r.iD)("div",u,s)}var o=e(89);const b={},i=(0,o.Z)(b,[["render",c]]);var l=i}}]);
+//# sourceMappingURL=about.1b7bebf5.js.map
